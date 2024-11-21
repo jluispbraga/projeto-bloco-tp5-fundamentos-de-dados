@@ -1,0 +1,315 @@
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 1.14 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.36 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.38 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.86 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.37 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 1.17 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.48 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.33 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 1.02 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.37 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.40 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 1.03 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.34 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.40 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 1.20 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.51 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.33 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.42 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.37 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.32 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.36 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.34 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.36 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.37 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.93 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.39 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.37 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.97 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.32 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.97 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.36 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.43 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.33 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.31 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.34 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.33 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Detalhes
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.36 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Dados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.33 segundos
+
+--- Fim do Relatório ---
+
+Tipo de Extração: Metadados
+Total de eventos extraídos: 24
+Total de eventos com erro: 0
+Tempo total de execução: 0.35 segundos
+
+--- Fim do Relatório ---
+
